@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/solana-angel/static/css/main.6bf0f2cb.css",
+    "main.js": "/solana-angel/static/js/main.3fda70fd.js",
+    "static/js/787.1d949ef0.chunk.js": "/solana-angel/static/js/787.1d949ef0.chunk.js",
+    "static/media/background.png": "/solana-angel/static/media/background.8ddc83b752da5ed24574.png",
+    "static/media/logo.png": "/solana-angel/static/media/logo.3c236cba863ffa59f7bd.png",
+    "static/media/solanaGap.png": "/solana-angel/static/media/solanaGap.5b8bb1afa918ca960da6.png",
+    "static/media/logo2.png": "/solana-angel/static/media/logo2.403747715a14deb18d6e.png",
+    "static/media/angel logo.png": "/solana-angel/static/media/angel logo.e77fade38591fa77f2e3.png",
+    "static/media/coinmarket.png": "/solana-angel/static/media/coinmarket.79d03eb72da2c1450385.png",
+    "static/media/connection.png": "/solana-angel/static/media/connection.3930270bb87f01daaad7.png",
+    "static/media/group.png": "/solana-angel/static/media/group.35108b665ce6381693ba.png",
+    "static/media/solscan.png": "/solana-angel/static/media/solscan.a60935a77701781a5d35.png",
+    "static/media/dexlab.png": "/solana-angel/static/media/dexlab.3f0ece7954b3cabd2c07.png",
+    "static/media/liquidity.png": "/solana-angel/static/media/liquidity.38c0f3ad583699f5571e.png",
+    "static/media/dexlab.svg": "/solana-angel/static/media/dexlab.5045c5ba8736df366b0b.svg",
+    "static/media/airdrop.png": "/solana-angel/static/media/airdrop.ed5d5cee4b35d558c671.png",
+    "static/media/investor.png": "/solana-angel/static/media/investor.c44b445543cf5ae4a7cb.png",
+    "static/media/flame.png": "/solana-angel/static/media/flame.bde1707ccdb626b751bd.png",
+    "static/media/animated.svg": "/solana-angel/static/media/animated.187b5bd6bf716f6c5a50.svg",
+    "static/media/hello.svg": "/solana-angel/static/media/hello.34aa37cf5c9e38b11759.svg",
+    "static/media/coinmarket.svg": "/solana-angel/static/media/coinmarket.c396a1b7f5f47b23b233.svg",
+    "static/media/solanaWhite.svg": "/solana-angel/static/media/solanaWhite.77fc73b98a265c34acffe9f12c395533.svg",
+    "static/media/solana.svg": "/solana-angel/static/media/solana.9cd7ae1de0afe53e3352.svg",
+    "static/media/serum.svg": "/solana-angel/static/media/serum.b8b749364593a759bf76.svg",
+    "static/media/raydium.svg": "/solana-angel/static/media/raydium.756e287ece7d2ad57d3c.svg",
+    "static/media/slick.svg": "/solana-angel/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/solana-angel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/solana-angel/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/solana-angel/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/solana-angel/index.html",
+    "main.6bf0f2cb.css.map": "/solana-angel/static/css/main.6bf0f2cb.css.map",
+    "main.3fda70fd.js.map": "/solana-angel/static/js/main.3fda70fd.js.map",
+    "787.1d949ef0.chunk.js.map": "/solana-angel/static/js/787.1d949ef0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf0f2cb.css",
+    "static/js/main.3fda70fd.js"
+  ]
+}

@@ -7,27 +7,27 @@ let distributions = [
   {
     title: "INVESTORS/PARTNERS 25%",
     img: "investor.png",
-    info: "25,000,000 of $SOLCHARITY supply will be made available for investors and future partnerships."
+    info: "25,000,000 of $RIAD supply will be made available for investors and future partnerships."
   },
   {
     title: "LIQUIDITY 25%",
     img: "liquidity.png",
-    info: "25,000,000 $SOLCHARITY will be used to supply liquidity into pools for $SOLCHARITY trading."
+      info: "25,000,000 $RIAD will be used to supply liquidity into pools for $RIAD trading."
   },
   {
     title: "AIRDROP/MARKETING 20%",
     img: "airdrop.png",
-    info: "20,000,000 $SOLCHARITY will be given out to the Solana community for the marketing of Solana Gap over time."
+      info: "20,000,000 $RIAD will be given out to the Solana community for the marketing of RIAD over time."
   },
   {
     title: "FIRST NETWORK ENGAGEMENT 10%",
     img: "connection.png",
-    info: "10% of $SOLCHARITY token supply will be made available for early purchase at a price of $0.2."
+      info: "10% of $RIAD token supply will be made available for early purchase at a price of $0.2."
   },
   {
     title: "TEAM 10%",
     img: "group.png",
-    info: "10,000,000 of the $SOLCHARITY token will be allocated to the Solana Gap development team and Ambassadors."
+      info: "10,000,000 of the $RIAD token will be allocated to the RIAD development team and Ambassadors."
   },
   {
     title: "Burn 10%",
@@ -51,10 +51,10 @@ function Token() {
       {
         name: 'Distribution',
         type: 'pie',
-        radius: ['40%', '70%'],
+        radius: ['45%', '70%'],
         avoidLabelOverlap: false,
         itemStyle: {
-          borderRadius: 10,
+          borderRadius: 5,
           borderColor: 'transparent',
           borderWidth: 2
         },

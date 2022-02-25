@@ -9,7 +9,7 @@ function Footer() {
             <img src={require(`../images/logo.png`)} alt='' className="w-32" />
           </div>
           <div className="flex flex-1 justify-center">
-            <p className="text-white text-2xl text-center sm:block hidden">Solana Charity</p>
+            <p className="text-white text-2xl text-center sm:block hidden">RIAD Dex</p>
           </div>
           <div className="flex flex-1 justify-end">
             <a href="#" className="">
@@ -17,7 +17,7 @@ function Footer() {
             </a>
           </div>
         </div>
-        <p className="text-1xl text-white text-center mt-10">Copyright 2021 Solana Charity. All Rights Reserved.</p>
+        <p className="text-1xl text-white text-center mt-10">Copyright 2021-2022 RIAD. All Rights Reserved.</p>
       </footer>
     );
   }

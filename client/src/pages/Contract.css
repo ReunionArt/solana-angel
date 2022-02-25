@@ -33,7 +33,7 @@ body {
   background: linear-gradient(to right, #230c36, #28b7ec);
   border-bottom: none;
   font-weight: 600;
-  box-shadow: rgb(40 183 236) 0px 0.25rem 0.75rem 0px;
+  box-shadow: rgb(40 236 218) 0px 0.25rem 0.75rem 0px;
   border-radius: 10px;
 }
 
@@ -44,11 +44,11 @@ body {
 }
 
 .navItem.ACTIVE .iconCont {
-  background: #28b7ec;
+  background: #28ece0;
 }
 
 .navItem:hover .iconCont {
-  background: #0767b6;
+  background: #07b69b;
   color: #fff;
 }
 
@@ -57,7 +57,7 @@ body {
   line-height: 38px;
   font-size: 24px;
   font-weight: 800;
-  color: rgb(6, 37, 54);
+  color: rgb(6, 54, 45);
   white-space: nowrap;
 }
 
@@ -68,7 +68,7 @@ body {
 */
 
 .contractInput {
-  color: rgb(6, 37, 54);
+  color: rgb(6, 54, 45);
   width: 100%;
   position: relative;
   font-weight: 500;
@@ -86,14 +86,14 @@ body {
   /* height: 70px; */
   padding: 10px;
   background: none;
-  border-bottom: 0.0625rem solid rgba(6, 37, 54, 0.397);
+  border-bottom: 0.0625rem solid rgba(6, 54, 54, 0.397);
   margin-right: 1.875rem;
 }
 
 .selecToken {
   -webkit-box-align: center;
   align-items: center;
-  color: #19333a;
+  color: #193a33;
   font-size: 14px;
   height: 70px;
   font-weight: bold;
@@ -101,7 +101,7 @@ body {
   border: 0.15rem solid #1a31382c;
   border-radius: 0.75rem;
   /* background-color: rgb(236, 246, 255); */
-  background: #1e373f34;
+  background: #1e3f3834;
   outline: none;
   cursor: pointer;
   user-select: none;

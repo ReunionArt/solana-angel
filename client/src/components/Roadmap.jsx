@@ -4,19 +4,19 @@ import Headerinfo from './Headersinfo'
 
 const roadmaps = [
   {
-    date: "1 January 2022",
-    title: "SOLONA CHARITY",
-    lists: ['Solona Charity Development.', 'Airdrops.']
-  },
-  {
-    date: "February 2022",
-    title: "FIRST MAINNET SWAP",
-    lists: ['10,000,000 $GAP will be available for claim.', 'More Airdrop for submitting bugs.']
-  },
-  {
     date: "March 2022",
+    title: "RIAD Dex",
+    lists: ['RIAD Dex Development.', 'Airdrops.']
+  },
+  {
+    date: "April 2022",
+    title: "FIRST MAINNET SWAP",
+    lists: ['10,000,000 $RIAD will be available for claim.', 'More Airdrop for submitting bugs.']
+  },
+  {
+    date: "May 2022",
     title: "COMMUNITY CAMPAIGN",
-    lists: ['Ambassadors program.', '$SOLCHARITY token distribution to pre-sale investors.', 'Airdrop distributing to community members.', 'NFT to top 1000 holders.']
+    lists: ['Ambassadors program.', '$RIAD token distribution to pre-sale investors.', 'Airdrop distributing to community members.', 'NFT to top 1000 holders.']
   },
   {
     date: "September 2022",

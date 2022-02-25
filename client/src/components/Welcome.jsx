@@ -14,13 +14,13 @@ const Welcome = () => {
       <div className="flex md:flex-row flex-col items-start justify-between md:p-20 py-12 px-4 mt-20">
         <div className="flex flex-1 items-center text-center flex-col mf:mr-10">
           <h1 className="text-3xl sm:text-5xl text-white text-gradient">
-            SOLANA ANGEL <br /> <span className="text-2xl">A Community built on Trust</span>
+            RIAD DEX<br /> <span className="text-2xl">A Community built on RIAD</span>
           </h1>
           <p className="text-left mt-5 text-white text-center font-light md:w-9/12 w-11/12 text-base">
-          Angel enables users to navigate the complex landscape of digital assets with a connected, compliant, and secure suite of solutions across all platform without fear.          </p>
+          RIAD Dex empowers users of all RIAD tools to navigate the complex digital asset landscape fearlessly with a suite of connected, compliant, and secure solutions across all platforms.</p>
           <div className="flex flex-row mt-10">
             <Link to="Dashboard">
-            <Button title="ANGEL DEX" customClass="mr-10 bg-primary" />
+            <Button title="RIAD DEX" customClass="mr-10 bg-primary" />
             </Link>
             <Button title="PRESALE 🔥" customClass="mr-10 bg-primary" />
           </div>

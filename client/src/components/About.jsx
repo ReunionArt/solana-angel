@@ -7,10 +7,10 @@ export class About extends Component {
     render() {
         return (
             <section id="About">
-                <Headerinfo sectionName="About" sectionTitle="What's Solana charity" />
+                <Headerinfo sectionName="About" sectionTitle="What's RIAD Dex" />
                 <div className="flex flex-col justify-between lg:flex-row md:p-20 py-12 px-4">
                     <div className="flex flex-1 flex-col px-5">
-                        <p className="mb-5" style={{ lineHeight: 2 }}>Solana Charity is a decentralised  exchange platform created by the Solana Charity Development Team that looks to provide efficient and easy swap on the solana ecosystem. Solana Gap is also a Bridging platform which aims at making bridging to other blockchains easy and fast on Solana Ecosystem.</p>
+                        <p className="mb-5" style={{ lineHeight: 2 }}>RIAD Dex is a decentralised  exchange platform created by the RIAD Development Team that looks to provide efficient and easy swap on the solana ecosystem. Solana Gap is also a Bridging platform which aims at making bridging to other blockchains easy and fast on Solana Ecosystem.</p>
                         {['Scalabilty', 'Secured', 'Capital efficiency', 'Composability'].map((feauture, index) => (
                             <div key={index} className="mb-3">
                                 <p className="w-100 flex flex-row">

@@ -20,14 +20,14 @@ const Dashboard = () => {
               <div className="w-5/6 mainCont">
                 <h2 className="mb-5 text-bold text-2xl">Airdrop</h2>
                 <div className="bg-white rounded-2xl shadow-sm px-7 py-10">
-                  <h2 className="text-lg">Solana Angel Airdrop #1</h2>
+                  <h2 className="text-lg">RIAD Token Airdrop #1</h2>
                   <p className="text-[#F3315E]">Ongoing</p>
-                  <p className="text-xs mt-3">200,000,000 Solana Angels tokens to be distributed. You must complete the simple tasks to qualify. </p>
+                  <p className="text-xs mt-3">200,000,000 RIAD tokens to be distributed. You must complete the simple tasks to qualify. </p>
 
                   <table className="table kAJryw mt-5">
                     <tr>
                       <td className="gUEunp">Token Name</td>
-                      <td className="gUEunp">Solana Angel</td>
+                      <td className="gUEunp">RIAD</td>
                     </tr>
                     <tr>
                       <td className="gUEunp">Total Supply</td>
@@ -35,7 +35,7 @@ const Dashboard = () => {
                     </tr>
                     <tr>
                       <td className="gUEunp">Token Symbol</td>
-                      <td className="gUEunp">$ANGELS</td>
+                      <td className="gUEunp">$RIAD</td>
                     </tr>
                   </table>
 

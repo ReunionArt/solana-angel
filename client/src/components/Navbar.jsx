@@ -25,7 +25,7 @@ const Navbar = () => {
         ))}
         <Link to="/dashboard" >
           <li className="bg-secondary py-2 px-7 mx-4 rounded-full cursor-pointer">
-            ANGEL DEX
+            RIAD DEX
           </li>
         </Link>
       </ul>

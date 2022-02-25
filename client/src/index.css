@@ -5,9 +5,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap");
 
 :root {
-  --primaryCol: #333c40;
-  --secCol: #1d3144bd;
-  --theWhite: #EFEBE0;
+  --primaryCol: #33403f;
+  --secCol: #1d443dbd;
+  --theWhite: #EFEB0;
 
 }
 
@@ -24,40 +24,40 @@ body {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #0a0800;
+  background: #000a05;
 }
 
 .gradient-bg-welcome {
-  background-color: #0f0e13;
+  background-color: #0e1311;
   background-image:
-    radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 1) 0, transparent 50%),
-    radial-gradient(at 50% 0%, hsla(225, 39%, 30%, 1) 0, transparent 50%),
-    radial-gradient(at 100% 0%, rgb(6, 129, 145) 0, transparent 50%);
+    radial-gradient(at 0% 0%, hsl(161, 15%, 7%) 0, transparent 50%),
+    radial-gradient(at 50% 0%, hsl(161, 39%, 30%) 0, transparent 50%),
+    radial-gradient(at 100% 0%, rgb(6, 145, 111) 0, transparent 50%);
 }
 
 .gradient-bg-services {
-  background-color: #0f0e13;
+  background-color: #0e1311;
   background-image:
-    radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 1) 0, transparent 50%),
-    radial-gradient(at 50% 100%, hsla(225, 39%, 25%, 1) 0, transparent 50%);
+    radial-gradient(at 0% 0%, hsla(161, 16%, 7%, 1) 0, transparent 50%),
+    radial-gradient(at 50% 100%, hsla(161, 39%, 25%, 1) 0, transparent 50%);
 }
 
 .gradient-bg-transactions {
-  background-color: #0f0e13;
+  background-color: #0e1311;
   background-image:
-    radial-gradient(at 0% 100%, hsla(253, 16%, 7%, 1) 0, transparent 50%),
-    radial-gradient(at 50% 0%, hsla(225, 39%, 25%, 1) 0, transparent 50%);
+    radial-gradient(at 0% 100%, hsla(161, 16%, 7%, 1) 0, transparent 50%),
+    radial-gradient(at 50% 0%, hsla(161, 39%, 25%, 1) 0, transparent 50%);
 }
 
 .gradient-bg-footer {
-  background-color: #0f0e13;
+  background-color: #0e1311;
   background-image:
-    radial-gradient(at 0% 100%, hsla(253, 16%, 7%, 1) 0, transparent 53%),
-    radial-gradient(at 50% 150%, hsla(339, 49%, 30%, 1) 0, transparent 50%);
+    radial-gradient(at 0% 100%, hsla(161, 16%, 7%, 1) 0, transparent 53%),
+    radial-gradient(at 50% 150%, hsla(161, 49%, 30%, 1) 0, transparent 50%);
 }
 
 .blue-glassmorphism {
-  background: rgb(39, 51, 89, 0.4);
+  background: rgb(39, 87, 89, 0,40);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(5px);
@@ -82,24 +82,24 @@ body {
 }
 
 .bg-primary {
-  background: #1d7ba7;
+  background: #1da781;
 }
 
 button.bg-primary:hover {
-  background: #07b7ec;
+  background: #07e5ec;
 }
 
 .bg-secondary {
-  background: #051e29;
+  background: #05291f;
 }
 
 .bg-secondary:hover {
-  background: #07b7ec;
-  color: #051e29;
+  background: #07ecd0;
+  color: #052925;
 }
 
 .bg-whito {
-  background: #1a3a4d50
+  background: #1a4d4b50
 }
 
 
@@ -108,7 +108,7 @@ button.bg-primary:hover {
 }
 
 .sectionTitle {
-  color: #152b3d33;
+  color: #153c3d33;
   font-family: "Trebuchet MS", Sans-serif;
   font-size: 150px;
   font-weight: 600;
@@ -124,7 +124,7 @@ button.bg-primary:hover {
 
 .timeline::before {
   content: "";
-  background: #333c40;
+  background: #334040;
   width: 5px;
   height: 95%;
   position: absolute;
@@ -167,7 +167,7 @@ button.bg-primary:hover {
   position: relative;
   width: 45%;
   border-radius: 4px;
-  background: #1929388e;
+  background: #1938368e;
   /* box-shadow: 0 20px 25px -15px rgba(0, 0, 0, 0.3); */
 }
 
